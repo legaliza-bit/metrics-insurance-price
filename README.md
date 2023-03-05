@@ -1,2 +1,2 @@
-# Econometrics-1 HW Assignment: Explaining Insurance Prices Based On Health Condition
-By Elizaveta Romanko And Olga Elkina
+# Explaining Insurance Prices Based On Health Condition
+## HW Assignment for Econometrics-1
