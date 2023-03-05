@@ -1,2 +1,2 @@
-# Explaining Insurance Prices Based On Health Condition
-## HW Assignment for Econometrics-1
+## Explaining Insurance Prices Based On Health Condition
+### HW Assignment for Econometrics-1
